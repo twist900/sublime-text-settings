@@ -1,8 +1,8 @@
-These are my settings for Sublime Text 2.
+These are my settings for Sublime Text 3.
 
 http://sublimetext.com
 
-I made this repo for myself, so I have an easy way to back them up. But if you like 'em, or want to tweak to your liking, cool beans.
+I made this repo for myself, so I have an easy way to back them up.
 
 On OS X, these files would reside in:
 
