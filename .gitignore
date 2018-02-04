@@ -1,0 +1,4 @@
+*.cache
+*.last-run
+.DS_Store
+*ca-bundle

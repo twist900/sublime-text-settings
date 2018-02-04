@@ -1,0 +1,40 @@
+[
+  { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar" },
+  { "keys": ["super+b"], "command": "js_prettier" },
+  {
+    "keys": ["super+k", "super+k"],
+    "command": "zoom_pane",
+    "args": { "fraction": 0.9 }
+  },
+  {
+    "keys": ["super+shift+k", "super+shift+k"],
+    "command": "unzoom_pane",
+    "args": {}
+  },
+  {
+    "keys": ["super+e"],
+    "command": "expand_abbreviation_by_tab",
+    "context": [
+      {
+        "operand": "source.js",
+        "operator": "equal",
+        "match_all": true,
+        "key": "selector"
+      },
+      { "match_all": true, "key": "selection_empty" },
+      {
+        "operator": "equal",
+        "operand": false,
+        "match_all": true,
+        "key": "has_next_field"
+      },
+      {
+        "operand": false,
+        "operator": "equal",
+        "match_all": true,
+        "key": "auto_complete_visible"
+      },
+      { "match_all": true, "key": "is_abbreviation" }
+    ]
+  }
+]

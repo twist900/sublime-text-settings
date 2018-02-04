@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+${TM_FILENAME/(.+)\..+|.*/$1/:name}.propTypes = {
+	${2}
+};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ptdev</tabTrigger>
+	<description> Set propTypes for react component </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+PropTypes.arrayOf(PropTypes.object).isRequired
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ptao</tabTrigger>
+	<description>PropTypes Array of Objects</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Babel",
+		"Bubububububad and Boneyfied Color Schemes",
+		"Color Highlighter",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"GitGutter",
+		"Github Color Theme",
+		"Handlebars",
+		"Inspired GitHub Color Scheme",
+		"JsPrettier",
+		"Oceanic Next Italic Color Scheme",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pug",
+		"Ruby Slim",
+		"Seti_UI",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-rubocop",
+		"TestRSpec",
+		"Theme - Seti Monokai",
+		"Theme - SoDaReloaded",
+		"Todo",
+		"TypeScript Syntax",
+		"Vue Syntax Highlight"
+	]
+}

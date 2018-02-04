@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+import React from 'react';
+
+const ${TM_FILENAME/(.+)\..+|.*/$1/:name} = (props) => (
+  <div>
+
+  </div>
+);
+
+export default ${TM_FILENAME/(.+)\..+|.*/$1/:name};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fcom</tabTrigger>
+	<description>React functional component</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

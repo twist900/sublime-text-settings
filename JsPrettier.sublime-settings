@@ -1,0 +1,10 @@
+{
+	"debug": true,
+	"auto_format_on_save": false,
+	"prettier_cli_path": "/Users/georgy/.nvm/versions/node/v6.9.1/bin/prettier",
+	// // "node_path": "/usr/local/opt/node@5/bin/node",
+	// "additional_cli_args":  {
+	// 	"--config": "/Users/georgy/Code/component-vara-bee/.prettierrc",
+	// 	"--config-precedence": "prefer-file"
+	// },
+}
